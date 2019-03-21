@@ -147,6 +147,8 @@
         "enableTranslation": true,
         "nativeLanguage": "id",
         "languages": ["id", "en"],
-        "skipServer": true
+        "skipServer": true,
+        "herokuAppName": "lol-market",
+        "herokuDeployType": "git"
     }
 }
